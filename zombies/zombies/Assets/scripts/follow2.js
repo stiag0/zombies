@@ -4,10 +4,10 @@
  var moveSpeed = 3; //move speed
  var rotationSpeed = 3; //speed of turning
  var myTransform : Transform; //current transform data of this enemy
- /*function Awake()
+ function Awake()
  {
      myTransform = transform; //cache transform data for easy access/preformance
- }*/
+ }
   
  function Start()
  {

@@ -1,30 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\follow2.js">
     <Files>
-      <File FileName="Assets\scripts\disparar.cs" Line="30" Column="8" />
-      <File FileName="Assets\scripts\hearts.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\movement.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\movementZ.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\hitZombie.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\CrearZ.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\followCharacter.cs" Line="18" Column="2" />
-      <File FileName="Assets\scripts\follow2.js" Line="23" Column="3" />
+      <File FileName="Assets\scripts\follow2.js" Line="11" Column="3" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="Assembly-CSharp" expanded="True">
-            <Node name="scripts" expanded="True" />
-          </Node>
-          <Node name="Assembly-UnityScript" expanded="True">
-            <Node name="scripts" expanded="True">
-              <Node name="follow2.js" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
