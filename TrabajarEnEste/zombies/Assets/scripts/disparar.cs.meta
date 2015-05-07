@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b80e7d6b72c12344810246be5492d80
+timeCreated: 1429394075
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bala: {instanceID: 0}
+  - bala_prefab: {fileID: 194206, guid: cae08f53aec079a4a9a1c1bb0ab7f113, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
